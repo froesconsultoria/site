@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "short_name": "",
+    "icons": [
+        {
+            "src": "https://2.bp.blogspot.com/-lzA12N0coDU/XGQNrsFwbBI/AAAAAAAAEco/xSXnXoOLA3wv4bhKb4XpR-xDkr-oeg-wQCLcBGAs/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-UuxeQ7_y0Y4/XGQNrqEPegI/AAAAAAAAEck/6P3VG7gSUK80W2_XbAG-DRDPYF00vtyYACLcBGAs/s1600/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
